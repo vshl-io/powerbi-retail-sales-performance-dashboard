@@ -1,10 +1,10 @@
 # Power BI Retail Sales Performance Dashboard
 
+### Dashboard Preview
+
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/9ab2cc67-0322-44d8-b928-fbadc66d43cb" /> <br/>
+
 An interactive Power BI dashboard analyzing retail transactions, profitability, product brand performance, and regional store operations using the Maven Market dataset.
-
-## Dashboard Preview
-
-<img width="1425" height="801" alt="image" src="https://github.com/user-attachments/assets/c0e1f771-d692-4c1f-9e57-e5acddc82783" /> <br/>
 
 ## Project Highlights
 
@@ -176,7 +176,7 @@ A bookmark feature allows quick filtering to analyze performance for specific st
 ## Screenshots
 ### Dashboard Preview
 
-<img width="1425" height="801" alt="image" src="https://github.com/user-attachments/assets/c0e1f771-d692-4c1f-9e57-e5acddc82783" /> <br/>
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/9ab2cc67-0322-44d8-b928-fbadc66d43cb" /> <br/>
 
 ### Data Model
 
