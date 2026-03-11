@@ -2,6 +2,10 @@
 
 An interactive Power BI dashboard analyzing retail transactions, profitability, product brand performance, and regional store operations using the Maven Market dataset.
 
+## Dashboard Preview
+
+<img width="1425" height="801" alt="image" src="https://github.com/user-attachments/assets/c0e1f771-d692-4c1f-9e57-e5acddc82783" /> <br/>
+
 ## Project Highlights
 
 - One-page executive retail performance dashboard
@@ -154,11 +158,6 @@ A gauge visual compares actual revenue against predefined business targets.
 
 A bookmark feature allows quick filtering to analyze performance for specific store groups, such as Portland store sales, improving analytical exploration.
 
-## Screenshots
-**Retail Performance Dashboard**
-
-<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/6a549203-4401-4488-906a-83f2d5f336f5" />
-
 ## Business Insights
 
 - Portland reached 1000 sales in December to close out the year.
@@ -173,6 +172,16 @@ A bookmark feature allows quick filtering to analyze performance for specific st
 - Retail Sales Analytics
 - Geographic Data Visualization
 - Executive Dashboard Design
+
+## Screenshots
+### Dashboard Preview
+
+<img width="1425" height="801" alt="image" src="https://github.com/user-attachments/assets/c0e1f771-d692-4c1f-9e57-e5acddc82783" /> <br/>
+
+### Data Model
+
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/1c7d5283-6212-432d-b298-81da75cbdc25" /> <br/>
+
 
 ### Author
 
