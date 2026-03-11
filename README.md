@@ -6,7 +6,7 @@ An interactive Power BI dashboard analyzing retail transactions, profitability, 
 
 - One-page executive retail performance dashboard
 
-- Hybrid star + snowflake data model
+- Hybrid **star + snowflake data model**
 
 - DAX-based KPIs for transactions, profit, margin, and returns
 
@@ -109,7 +109,7 @@ Measures overall business profitability relative to revenue.
 
 **Quantity Returned:**
 
-Quantity Returned = SUM(Returns[quantity])
+```Quantity Returned = SUM(Returns[quantity])```
 
 Calculates the total number of returned items across stores.
 
@@ -134,6 +134,7 @@ A product brand table highlights:
 - Total transactions per brand
 - Total profit generated
 - Profit margin performance
+- Return rate
 
 This helps identify the most profitable product brands.
 
@@ -160,9 +161,9 @@ A bookmark feature allows quick filtering to analyze performance for specific st
 
 ## Business Insights
 
-- Portland reached 1000 sales in December to close out the year
-- High Top product return rate doubled in all three marketplaces (9 to 18 overall), at a return rate of 1.01%
-- Plato products drove the strongest overall profit margin (63.55%) in 1998
+- Portland reached 1000 sales in December to close out the year.
+- High Top product return rate doubled in all three marketplaces (9 to 18 overall), at a return rate of 1.01%.
+- Plato products drove the strongest overall profit margin (63.55%) in 1998.
 
 ## Skills Demonstrated
 
