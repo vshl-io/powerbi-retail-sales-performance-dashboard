@@ -2,7 +2,7 @@
 
 ### Dashboard Preview
 
-<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/9ab2cc67-0322-44d8-b928-fbadc66d43cb" /> <br/>
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/508f5f86-ad31-4fe9-a5fd-4844c4fa2f98" /> <br/>
 
 An interactive Power BI dashboard analyzing retail transactions, profitability, product brand performance, and regional store operations using the Maven Market dataset.
 
@@ -176,7 +176,7 @@ A bookmark feature allows quick filtering to analyze performance for specific st
 ## Screenshots
 ### Dashboard Preview
 
-<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/9ab2cc67-0322-44d8-b928-fbadc66d43cb" /> <br/>
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/ca094773-0d14-4f8b-80a4-95b77b3ef270" /> <br/>
 
 ### Data Model
 
